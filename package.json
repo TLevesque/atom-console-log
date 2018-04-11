@@ -2,7 +2,7 @@
   "name": "atom-console-log",
   "main": "./lib/atom-console-log",
   "version": "0.0.0",
-  "description": "A short description of your package",
+  "description": "On ctrl+alt+a keys press, it inserts console.log('=>${selectedText}', ${selectedText}) to the place of the selected text",
   "keywords": [
   ],
   "activationCommands": {
